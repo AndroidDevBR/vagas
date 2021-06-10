@@ -13,7 +13,7 @@ Para que as vagas enviadas neste mural sejam categorizadas com as labels, as mes
 3. Adicione links ou descreva as políticas de inclusão, não discriminação e afins adotadas pela empresa.
 4. As vagas enviadas neste mural serão automaticamente divulgadas no canal #vagas do Slack da nossa comunidade.
 5. O nome da empresa contratante deve ser divulgado na descrição da issue. Novas issues sem o nome da empresa serão encerradas pela equipe de moderação.
-6. Pesquise se a oportunidade para a sua empresa já foi divulgada. Não repita a divulgação da mesma vaga diversas vezes. Caso a sua oportunidade não tenha sido preenchida ainda, melhore a descrição da mesma com o máximo de informações possível. Caso ainda assim a vaga não tenha sido preenchida, encerre a issue anterior e crie uma nova com todas as melhorias de descrição já feitas. **Em hipótese alguma recrie a mesma vaga diversas vezes com a mesma descrição.** Esta ação será considerada spam e resultará na exclusão das issues.
+6. Pesquise se a oportunidade para a sua empresa já foi divulgada. Não repita a divulgação da mesma vaga diversas vezes. Caso a sua oportunidade não tenha sido preenchida ainda, melhore a descrição da mesma com o máximo de informações possível. Caso ainda assim a vaga não tenha sido preenchida, encerre a issue anterior e crie uma nova com todas as melhorias de descrição já feitas. **Em hipótese alguma recrie a mesma vaga diversas vezes com a mesma descrição.** Esta ação será considerada spam e resultará na exclusão das issues e possível bloqueio da pessoa que criou as issues.
 
 ## Panorama do mercado
 
