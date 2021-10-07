@@ -20,7 +20,7 @@ Visando manter a transparência com todos os membros de nossa comunidade, além 
 #### Todas as vagas devem conter o nome da empresa que está contratando
 Se você é um recrutador, você deve identificar o nome da empresa em que o candidato irá trabalhar
 
-### Todas as vagas devem conter um link ou email de aplicação para a vaga
+#### Todas as vagas devem conter um link ou email de aplicação para a vaga
 O candidato deve poder saber, com facilidade, o que precisa ser feito para aplicar ou obter mais informações sobre a vaga
 
 #### As vagas devem ser reais
